@@ -1,0 +1,25 @@
+body{
+    background:violet;
+}
+#main{
+    height: 400px;
+    width: 550px;
+    border: 5px solid black;
+    border-color: grey;
+    margin: auto;
+    margin-top: 150px;
+    background: rgb(111, 28, 194);
+    text-align: center;
+}
+#rules{
+    text-align: justify;
+    margin-left: 125px;
+}
+button{
+    height: 35px;
+    width: 90px;
+    border-radius: 10px;
+    color:black;
+    background-color: brown;
+    font-size: x-large;
+}
